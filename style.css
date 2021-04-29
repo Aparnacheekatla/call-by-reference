@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/188/354/333/low-poly-abstract-artwork-geometry-wallpaper-preview.jpg);
+    background-size: cover;
+    align-items: center;
+    text-align: center;   
+}
+button{
+    font-size: 20px;
+    background-image: url(none) ;
+}
